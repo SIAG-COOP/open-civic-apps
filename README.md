@@ -1,28 +1,46 @@
-# 🌐 SIAG COOP – Open Civic Apps  
-**Aplicaciones abiertas para la cooperación social, la gestión comunitaria y la organización civil.**
+# 🌍 SIAG COOP – Open Civic Apps
 
-## 🧭 Introducción  
-**Open Civic Apps** forma parte del ecosistema de **SIAG COOP**, una cooperativa informática dedicada al desarrollo de software libre y herramientas para la autogestión digital.  
-Su propósito es **impulsar la tecnología al servicio de las comunidades**, generando aplicaciones simples, seguras y reproducibles para la organización local, vecinal y cooperativa.
+**Plataforma de aplicaciones libres, éticas y comunitarias.**  
+Diseñadas para proyectos sociales, instituciones públicas y cooperativas.
 
-## 🛠️ Enfoque  
-- **Software libre y replicable** – cada aplicación puede ser adaptada a distintos contextos sociales o territoriales.  
-- **Descentralización y autonomía** – diseñadas para funcionar sin depender de grandes plataformas o servicios externos.  
-- **Sostenibilidad y accesibilidad** – código optimizado, compatible con sistemas livianos y entornos rurales o de baja conectividad.  
-- **Cooperativismo digital** – desarrollo ético basado en trabajo colaborativo y reciprocidad tecnológica.
+---
 
-## 🧩 Ejemplos de proyectos posibles  
-- Gestores de asambleas y votaciones abiertas.  
-- Plataformas de comunicación local y alertas vecinales.  
-- Sistemas de intercambio y trueque digital.  
-- Módulos de administración participativa para cooperativas o comunidades.  
+## 🎯 Objetivo
 
-## 🔗 Ecosistema SIAG COOP  
-Este repositorio se integra dentro del **entorno cooperativo SIAG COOP**, junto a:  
-- [`cooperative-tools`](https://github.com/SIAG-COOP/cooperative-tools)  
-- `siag-hub` (repositorio central de la cooperativa, próximamente disponible)
+Desarrollar software que empodere la participación ciudadana, la gestión comunitaria y la transparencia, priorizando el control local sobre los datos y la sostenibilidad tecnológica.
 
-## 📬 Contacto  
-Telegram: [@SIAG_SOFTWARE](https://t.me/SIAG_SOFTWARE)  
-Correo: siag.software7@gmail.com  
-Sitio web (en desarrollo): [https://siagcoop.org](https://siagcoop.org)
+---
+
+## 🧩 Proyectos incluidos
+
+- Aplicaciones de votación y toma de decisiones cooperativas.  
+- Sistemas de gestión comunitaria de recursos.  
+- Herramientas para educación libre, cultura y comunicación descentralizada.  
+- Prototipos de interfaces web accesibles y adaptables a distintas organizaciones.
+
+---
+
+## 🚀 Instalación
+
+```bash
+git clone https://github.com/SIAG-COOP/open-civic-apps.git
+cd open-civic-apps
+Luego, ver la carpeta docs/ o cada subproyecto para instrucciones detalladas.
+
+🤝 Participación
+Invitamos a desarrolladores, educadores, diseñadores y colectivos sociales a colaborar.
+Comunicate con nosotros por:
+
+Telegram: @SIAG_SOFTWARE
+
+Correo: siag.software@protonmail.com
+
+🔗 Ecosistema SIAG COOP
+🧩 Cooperative Tools – Scripts y automatizaciones
+
+🌀 SIAG Hub – Centro documental y técnico
+
+📜 Licencia
+AGPL v3 – Software libre para el bien común.
+
+© 2025 SIAG COOP – Cooperativa Informática de Software Libre.
