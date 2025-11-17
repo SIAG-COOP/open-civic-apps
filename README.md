@@ -1,46 +1,102 @@
-# 🌍 SIAG COOP – Open Civic Apps
+# 🌍 SIAG COOP — Open Civic Apps
+Aplicaciones cívicas y comunitarias de código abierto orientadas a participación, transparencia, organización social y soluciones públicas.
 
-**Plataforma de aplicaciones libres, éticas y comunitarias.**  
-Diseñadas para proyectos sociales, instituciones públicas y cooperativas.
+Este repositorio reúne software diseñado para:
+- comunidades locales  
+- cooperativas  
+- organizaciones barriales  
+- colectivos sociales  
+- movimientos cívicos  
+- municipios o grupos autogestivos  
 
----
-
-## 🎯 Objetivo
-
-Desarrollar software que empodere la participación ciudadana, la gestión comunitaria y la transparencia, priorizando el control local sobre los datos y la sostenibilidad tecnológica.
-
----
-
-## 🧩 Proyectos incluidos
-
-- Aplicaciones de votación y toma de decisiones cooperativas.  
-- Sistemas de gestión comunitaria de recursos.  
-- Herramientas para educación libre, cultura y comunicación descentralizada.  
-- Prototipos de interfaces web accesibles y adaptables a distintas organizaciones.
+El objetivo es construir **tecnología accesible, replicable y orientada al bien común**.
 
 ---
 
-## 🚀 Instalación
+## 🎯 Propósito General
+Open Civic Apps ofrece herramientas digitales que facilitan:
 
-```bash
-git clone https://github.com/SIAG-COOP/open-civic-apps.git
-cd open-civic-apps
-Luego, ver la carpeta docs/ o cada subproyecto para instrucciones detalladas.
+- participación democrática  
+- organización interna  
+- transparencia comunitaria  
+- acceso a información  
+- coordinación de actividades  
+- procesos de decisión colectivos  
+
+Estas aplicaciones buscan mejorar la vida cívica con tecnología ética y abierta.
+
+---
+
+## 📦 Estructura del Repositorio
+```
+open-civic-apps/
+├── README.md
+├── docs/
+│ └── civic_design_principles.md → Principios de diseño cívico abierto
+└── src/
+└── civic_app_template.py → Plantilla base para aplicaciones cívicas
+```
+
+---
+
+## 🧭 Tipos de Aplicaciones Cívicas Previstas
+
+### 1. **Herramientas de Participación**
+- votaciones simples  
+- encuestas comunitarias  
+- plataformas de propuestas  
+- mecanismos de consenso  
+
+### 2. **Transparencia y Gestión Pública**
+- portales comunitarios  
+- seguimiento de proyectos  
+- visualización de gastos  
+- reportes abiertos  
+
+### 3. **Organización Social**
+- calendarios comunitarios  
+- agendas de asambleas  
+- gestión de roles  
+- herramientas para comisiones  
+
+### 4. **Comunicación Abierta**
+- tablones comunitarios  
+- boletines automáticos  
+- sistemas de alertas  
+
+---
+
+## ⚙️ Plantilla para Nuevas Aplicaciones
+El archivo `civic_app_template.py` provee una estructura básica para comenzar a desarrollar módulos cívicos.
+
+```python
+print("🌱 Aplicación Cívica SIAG COOP en ejecución (modo demo).")
+Próximos commits incluirán:
+
+estructura escalable
+
+modularización
+
+CLI
+
+API opcional
+
+📚 Documentación
+Ver:
+📄 docs/civic_design_principles.md
 
 🤝 Participación
-Invitamos a desarrolladores, educadores, diseñadores y colectivos sociales a colaborar.
-Comunicate con nosotros por:
+Cualquier persona o colectivo puede contribuir:
 
-Telegram: @SIAG_SOFTWARE
+proponiendo nuevas aplicaciones
 
-Correo: siag.software@protonmail.com
+creando módulos
 
-🔗 Ecosistema SIAG COOP
-🧩 Cooperative Tools – Scripts y automatizaciones
+mejorando documentación
 
-🌀 SIAG Hub – Centro documental y técnico
+compartiendo necesidades sociales reales
 
-📜 Licencia
-AGPL v3 – Software libre para el bien común.
-
-© 2025 SIAG COOP – Cooperativa Informática de Software Libre.
+🔗 Contacto
+Email: siag.software@protonmail.com
+Telegram: https://t.me/SIAG_SOFTWARE
+Canal SIAG COOP: https://t.me/SIAGCOOP
